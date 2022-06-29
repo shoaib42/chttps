@@ -1,0 +1,1 @@
+enum methods {CONNECT, DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT};
